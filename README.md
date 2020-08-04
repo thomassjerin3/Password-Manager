@@ -1,0 +1,2 @@
+# Password-Manager
+To create a unique password every time you sign-up  this is your go-to application . Extremely compact in size (less than 10 kb ) Its engineered in such a way that it 100% will never produce the same password ever .There is an pre-included file that  will contain all the passwords you have created using this application I am also attaching a file which will help you to view every passwords you have created , it can be viewed  through your Command prompt . INFO--  This entirely runs in python .
